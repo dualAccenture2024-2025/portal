@@ -5,7 +5,7 @@
 <head>
 	<meta charset="ISO-8859-1" name="viewport" content="width=device-width, initial-scale=1.25, maximum-scale=1">
 	<title>Login</title>
-	<link rel="icon" type="image/x-icon" href="../images/accFavicon">
+	<link rel="icon" type="image/x-icon" href="../images/accFavicon.jpg">
 	<link href="../styles/styleRegister.css" rel="stylesheet">
 </head>
 

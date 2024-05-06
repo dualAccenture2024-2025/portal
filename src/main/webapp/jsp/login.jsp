@@ -8,7 +8,7 @@
         <link href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap"
             rel="stylesheet">
         <link href="../styles/styleLogin.css" rel="stylesheet">
-        <link rel="icon" type="image/x-icon" href="../images/accFavicon">
+        <link rel="icon" type="image/x-icon" href="../images/accFavicon.jpg">
         <meta charset="UTF-8">
         <title>Login</title>
     </head>
