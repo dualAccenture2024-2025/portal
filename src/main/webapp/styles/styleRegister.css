@@ -1,0 +1,87 @@
+@charset "ISO-8859-1";
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	overflow: hidden;
+}
+ 
+.login {
+	padding:50px;
+	padding-top:35px;
+	padding-bottom:35px;
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items:center;
+
+	border: solid black 2px;
+	border-radius:30px;
+}
+ 
+.input_container{
+	width:100%;
+	position: relative;
+}
+ 
+.input_container input{
+	width:205px;
+}
+input, select {
+	margin-bottom: 15px;
+}
+ 
+select {
+	width:210px;
+}
+ 
+ 
+button {
+	color: white;
+	background-color: #A100FF;
+	border-radius: 5px;
+	border: solid 1px black;
+	width: 80px;
+	font-weight: bold;
+}
+.date{
+	width: 165px;;
+}
+.input_container label{
+	position: absolute;
+	left:5px;
+	top:1.5px;
+	pointer-events:none;
+}
+ 
+.input_container input:focus ~ label,
+.input_container input:valid ~ label {
+	top:-10px;
+	left:10px;
+	padding: 0 2px;
+	background: white;
+	font-size:12px;
+}
+
+.input_container input:focus,
+.input_container input:valid {
+
+	border-color: #A100FF;
+}
+
+#logoAccenture {
+
+	width: 200px;
+	margin-top: 70px;
+	margin-bottom: 20px;
+
+}
+
+#mainContainer {
+	
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
