@@ -15,7 +15,6 @@
 </head>
 
 <body>
-
 	<header>
 		<div class="imagenNombreCentro">
 			<img src="./images/LOGOTIPO-IES-SAN-JOSE.png" alt="imagenCentro" style="height: 10vh">
@@ -98,6 +97,5 @@
 		<img src="./images/logoAccentureBlanco.png" alt="logoAccenture"
 			style="width: 8vw">
 	</footer>
-
 </body>
 </html>
