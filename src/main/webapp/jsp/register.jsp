@@ -13,7 +13,7 @@
 </head>
 <body>
 	<div id="mainContainer">
-		<img src="./images/logoAccenture.svg" id= "logoAccenture">
+		<img src="../images/logoAccenture.svg" id= "logoAccenture">
 			<form class="login">
 				<div class="input_container">
 					<input type="text" name="user_name" required>
