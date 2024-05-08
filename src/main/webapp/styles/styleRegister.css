@@ -55,12 +55,7 @@ body {
 }
  
 /* Input */
-
-#dateLabel {
-
-    background-color: white;
-}
-
+ 
 .input_container{
 	width:100%;
 	position: relative;
