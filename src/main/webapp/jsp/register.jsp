@@ -42,7 +42,8 @@
 			
 			<!-- FECHA NACIMIENTO -->
 			<div class="input_container">
-				<input type="date" class="date" name="user_birthday" required>
+				<input type="date" class="date" name="user_birthday" placeholder=" "
+					required> <label id="dateLabel"> Fecha de nacimiento </label>
 			</div>
 			
 			<!-- NIF -->
