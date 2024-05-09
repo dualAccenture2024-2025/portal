@@ -25,7 +25,7 @@ body {
 /* Login */
  
 .login {
-	padding:8em;
+	padding:4em;
 	padding-top:35px;
 	padding-bottom:25px;
 	display: flex;
@@ -52,6 +52,7 @@ body {
 	top:1.5px;
 	pointer-events:none;
 	padding: 4px;
+	transition: .3s;
 }
  
 /* Input */
@@ -147,7 +148,7 @@ input, select {
   left: 0;
   width: 0%;
   height: 100%;
-  background-color: #9100e6; /* Adjust color manually */
+  background-color: #9100e6; 
   transition: all 0.3s;
   border-radius: 10rem;
   z-index: -1;
