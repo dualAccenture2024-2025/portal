@@ -25,7 +25,7 @@ body {
 /* Login */
  
 .login {
-	padding:8em;
+	padding:4em;
 	padding-top:35px;
 	padding-bottom:25px;
 	display: flex;
@@ -69,6 +69,7 @@ body {
  
 input {
 	padding-left: 8px;
+	height: 35.34px;
 }
  
  
@@ -93,6 +94,15 @@ input, select {
     border-color: #A100FF;
     box-shadow: 0 0 5px rgba(161, 0, 255, 0.5);
     outline: none;
+}
+
+/* Options (Select) */
+
+option {
+	background-color: white;
+	color: #A100FF;
+	font-weight: 500;
+	border-width: 20px;
 }
  
  
